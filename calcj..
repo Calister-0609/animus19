@@ -1,0 +1,7 @@
+System.out.print("Enter second number: ");
+        double num2 = scanner.nextDouble();
+
+        System.out.print("Choose an operation (+, -, *, /): ");
+        char operation = scanner.next().charAt(0);
+
+        double result = 0;
